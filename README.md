@@ -30,3 +30,7 @@ Este projeto será feito com base no seguinte dataset disponível no Kaggle, em 
 📌 Por não conter dados de usuários no dataset utilizado, as recomendações não terão aspectos personalizados por usuário, mas sim, serão baseados em conteúdo. Assim, o modelo será do tipo Content-Based Filtering:
 
 [Content-based Filtering | Recommendation Systems | Google Developers](https://developers.google.com/machine-learning/recommendation/content-based/basics)
+
+O projeto está disponível no GitHub através do link abaixo:
+
+[GitHub - jpborgesmoura/recsys_spotify: Projeto prático de Recomendação de músicas, usando dataset do Spotify](https://github.com/jpborgesmoura/recsys_spotify)
