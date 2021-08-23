@@ -33,4 +33,4 @@ Este projeto será feito com base no seguinte dataset disponível no Kaggle, em 
 
 O projeto está disponível no GitHub através do link abaixo:
 
-[GitHub - jpborgesmoura/recsys_spotify: Projeto prático de Recomendação de músicas, usando dataset do Spotify](https://github.com/jpborgesmoura/recsys_spotify)
+[GitHub - jpborgesmoura/songs_recommender_system: Projeto prático de Recomendação de músicas, usando dataset do Spotify](https://github.com/jpborgesmoura/songs_recommender_system)
