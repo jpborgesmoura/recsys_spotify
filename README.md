@@ -31,6 +31,40 @@ Este projeto será feito com base no seguinte dataset disponível no Kaggle, em 
 
 [Content-based Filtering | Recommendation Systems | Google Developers](https://developers.google.com/machine-learning/recommendation/content-based/basics)
 
-O projeto está disponível no GitHub através do link abaixo:
+### Acesso ao Projeto no GitHub
+
+O projeto está disponível no GitHub através do link abaixo: 
 
 [GitHub - jpborgesmoura/songs_recommender_system: Projeto prático de Recomendação de músicas, usando dataset do Spotify](https://github.com/jpborgesmoura/songs_recommender_system)
+
+## Etapa III - Análise Exploratória dos Dados
+
+🔖 DICIONÁRIO DE DADOS
+
+[DataFrame Artists](https://www.notion.so/a167ab6010154280b4e86a8f8c8779fa)
+
+💡CONCLUSÕES
+
+✔️ ID
+
+- Cada artista possui um hash id único
+
+✔️ FOLLOWERS
+
+- É possível perceber que, quanto maior o número de Seguidores, menor a quantidade de Artistas com tal atributo
+- Existem 278.507 usuários com até 10 Seguidores no dataset, o que dá um percentual de 25,22% do total de artistas analisados
+
+✔️ GENRES
+
+- Temos 5365 gêneros musicais do dataset (exceto 'não especificado')
+- Muitos gêneros existentes são, na verdade, subdivisões de outros gêneros com base em regionalidades. Ex.: (ukrainian folk, ukrainian hip hop, ukrainian indie, ukrainian metal, ukrainian pop).
+- Existem 68 subgêneros apenas de musicas italianas, 59 suecas, 25 turcas, entre outros
+- Talvez seja válido criar uma relação entre gêneros, assim como já existe entre os artistas, para criar recomendações
+
+✔️ NAME
+
+✔️ POPULARITY
+
+- Observa-se que a Popularidade é um item que varia de 0 a 100 no dataset
+- Como é de se esperar, quanto maior o número de Seguidores, maior a Popularidade do Artista
+- 70,72% de todos os artistas do dataset possuem uma Popularidade abaixo de 10, o que indica que o dataset é composto por artistas que, em sua maioria, possuem baixa Popularidade
