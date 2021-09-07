@@ -129,14 +129,11 @@ O projeto está disponível no GitHub através do link abaixo:
 1. A média de duração das músicas do dataset é de 03min50s.
 2. 75% das canções possuem até 04min23s.
 3. A faixa de maior duração do dataset possui 01h33min41s, chama-se โครงสร้างแห่งสิ่งที่เรียกว่าชีวิต, que em Português significa "A estrutura daquilo que se chama de Vida", e, na verdade, trata-se de uma palestra
-
-![the_biggest_song.PNG](Em%20Busca%20da%20Playlist%20Perfeita%20no%20Spotify%2060de97b835ff47268309d606575b5f59/the_biggest_song.png)
-
-1. Levando isso em consideração, identificamos que no DataFrame Tracks, também estão relacionadas itens diferentes de música, em formato de faixas (palestras, álbuns inteiros, concertos etc)
-2. Vamos excluir do DataFrame todos os itens que não consideramos músicas, pois levarão a erro no futuro modelo
-3. Considerando o atributo de duração individualmente, vamos entender
+4. Levando isso em consideração, identificamos que no DataFrame Tracks, também estão relacionadas itens diferentes de música, em formato de faixas (palestras, álbuns inteiros, concertos etc)
+5. Vamos excluir do DataFrame todos os itens que não consideramos músicas, pois levarão a erro no futuro modelo
+6. Considerando o atributo de duração individualmente, vamos entender
 como música todos os itens que possuem entre 01min30s de 20 minutos
-4. Existem 1024 registros com duração superior a 20 minutos e 7182 com menos de 1 minuto.
+7. Existem 1024 registros com duração superior a 20 minutos e 7182 com menos de 1 minuto.
 
 ✔️ EXPLICIT
 
