@@ -20,7 +20,7 @@ Contribui muito para a experiência do usuário que a ele seja recomendado conte
 
 📌 Este projeto terá como base [este dataset disponível no Kaggle]([https://www.kaggle.com/datasets/rodolfofigueroa/spotify-12m-songs]), que será complementado com dados advindos da API do Spotify!
 
-📌 Para este nosso projeto, vamos salvar todos os dados em um Banco de Dados SQLite3, isso porque ele é leve e de fácil manuseio, e que atende nossas necessidades neste trabalho, pois não há previsão de termos uma quantidade muito grande de dados (além daquela suportada pela ferramenta)
+📌 Para este nosso projeto, **vamos salvar todos os dados em um Banco de Dados SQLite3**, isso porque ele é leve e de fácil manuseio, e que atende nossas necessidades neste trabalho, pois não há previsão de termos uma quantidade muito grande de dados (além daquela suportada pela ferramenta)
 
 📌 Como esta solução tem fins de aprendizado e demonstração, e não a de ser colocada em produção por ora, vamos trabalhar com uma base estática (sem atualizações durante sua utilização, apenas durante sua construção)
 
