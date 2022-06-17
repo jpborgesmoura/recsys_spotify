@@ -18,7 +18,7 @@ Contribui muito para a experiência do usuário que a ele seja recomendado conte
 
 📌 Pretende-se coletar uma quantidade suficiente de dados do catálogo do Spotify com a qual se possa construir um modelo capaz de aprender a relação entre as faixas, e seus artistas. Será utilizada a linguagem Python, e algumas de suas bibliotecas mais populares, como Pandas (análise de dados), Seaborn (visualização), Scikit Learn (aprendizado de máquinas), dentre outras que se façam necessárias.
 
-📌 Este projeto terá como base [este dataset disponível no Kaggle]([https://www.kaggle.com/datasets/rodolfofigueroa/spotify-12m-songs]), que será complementado com dados advindos da API do Spotify!
+📌 Este projeto terá como base [este dataset disponível no Kaggle](https://www.kaggle.com/datasets/rodolfofigueroa/spotify-12m-songs), que será complementado com dados advindos da API do Spotify!
 
 📌 Para este nosso projeto, **vamos salvar todos os dados em um Banco de Dados SQLite3**, isso porque ele é leve e de fácil manuseio, e que atende nossas necessidades neste trabalho, pois não há previsão de termos uma quantidade muito grande de dados (além daquela suportada pela ferramenta)
 
